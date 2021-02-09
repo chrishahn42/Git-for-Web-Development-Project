@@ -1,4 +1,8 @@
+    Codepen:https://codepen.io/ChrisDeity/pen/ZEBpYVo?editors=1101
+    
+    
     1. What is Semantic HTML? 
+
       html thaht gives meaning or context to our code
 
     2. What is HTML used for? 
