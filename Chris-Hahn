@@ -71,6 +71,7 @@ html wrote in a way thats easy for humans to understand
     regularly
     36. What is the command we would use to push our repo up to github?
     git push -u origin 
+    
     37. Walk me through Lambda's git flow.
      git clone
      cd into repo
