@@ -69,6 +69,7 @@ html wrote in a way thats easy for humans to understand
     34. Why should I use version control? 
     35. How often should I commit to github?
     regularly
+    
     36. What is the command we would use to push our repo up to github?
     git push -u origin 
     
